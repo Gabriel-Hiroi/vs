@@ -2,15 +2,10 @@ Trabalho realizado Gabriel Hideki Hiroi, Guilherme Machado
 
 Classes:
 
-
 FintechApp: String
-
 ContaBancaria: String
-
 TransacaoBancaria: String
-
 Cliente: Pessoa
-
 ClienteEmpresarial: Pessoa
 
 
